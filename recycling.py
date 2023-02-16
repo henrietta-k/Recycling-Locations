@@ -1,6 +1,6 @@
 """
 Creating the graph of recycling stations in Hong Kong and implementing
-a BFS algorithm to create a list of stations from closest to farthest of the
+a BFS algorithm to create a list of stations from closest to farthest from the
 starting point
 """
 
