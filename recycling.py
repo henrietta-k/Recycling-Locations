@@ -6,7 +6,7 @@ starting point
 
 from station import*
 from info import*
-import PySimpleGUI as py
+
 
 def create_graph():
     """
