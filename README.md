@@ -7,7 +7,7 @@ Hong Kong has a notoriously low recycling rate, however, in recent times, more a
 - Output of the program with the closest recycling stations and which ones belong on the same line:
 <img width="576" alt="image" src="https://github.com/henrietta-k/Recycling-Locations/assets/111554249/3bfa2fe8-99cd-4373-b7bd-5fc172c7acce">
 - The user can choose to see the full address
-- <img width="499" alt="image" src="https://github.com/henrietta-k/Recycling-Locations/assets/111554249/ae87a022-2935-4c43-a396-9cc54a1ee84a">
+<img width="499" alt="image" src="https://github.com/henrietta-k/Recycling-Locations/assets/111554249/ae87a022-2935-4c43-a396-9cc54a1ee84a">
 
 ## Map
 ![recycling-stations-graphic](https://github.com/henrietta-k/Recycling-Locations/assets/111554249/16adaaab-7717-4da7-b494-61129f4e166d)
